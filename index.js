@@ -2,7 +2,6 @@ let saveEl = document.getElementById("save-el")
 
 let countEL = document.getElementById("count-el")
 
-console.log(countEL)
 
 let count = 0
 
@@ -22,5 +21,4 @@ function save (){
 }
 
  
-
 
